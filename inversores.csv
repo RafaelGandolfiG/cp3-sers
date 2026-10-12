@@ -1,0 +1,11 @@
+id,fabricante,modelo,tipo,potencia_nominal_w,potencia_max_fv_w,tensao_max_entrada_v,faixa_mppt_min_v,faixa_mppt_max_v,corrente_max_entrada_a,numero_mppt,compativel_bateria,preco_brl,fornecedor,data_coleta,url_fonte
+INV001,GoodWe,GW5KN-ET,Hibrido,5000,7500,1000,200,850,16,2,True,,PENDENTE,2026-09-21,https://br.goodwe.com/et-plus-16a
+INV002,GoodWe,GW6.5KN-ET,Hibrido,6500,9750,1000,200,850,16,2,True,,PENDENTE,2026-09-21,https://br.goodwe.com/et-plus-16a
+INV003,GoodWe,GW8KN-ET,Hibrido,8000,12000,1000,200,850,16,2,True,,PENDENTE,2026-09-21,https://br.goodwe.com/et-plus-16a
+INV004,GoodWe,GW10KN-ET,Hibrido,10000,15000,1000,200,850,16,2,True,,PENDENTE,2026-09-21,https://br.goodwe.com/et-plus-16a
+INV005,Huawei,SUN2000-3KTL-L1,Hibrido,3000,4500,600,90,560,12.5,2,True,,PENDENTE,2026-09-21,https://solar.huawei.com/
+INV006,Huawei,SUN2000-5KTL-L1,Hibrido,5000,7500,600,90,560,12.5,2,True,3070.00,Buyers Energy,2026-09-21,https://www.buyersenergy.com.br/produtos/inversor-solar-5-kw-huawei-sun2000-5ktl-l1/
+INV007,Sungrow,SG5.0RS-L,On-grid,5000,7500,600,40,560,16,2,False,5119.00,Envia Sol,2026-09-21,https://www.enviasol.com.br/
+INV008,Sungrow,SH5.0RS,Hibrido,5000,7500,600,40,560,16,2,True,,PENDENTE,2026-09-21,https://www.sungrowpower.com/
+INV009,Fronius,Primo 5.0-1,On-grid,5000,7500,1000,80,800,18,2,False,,PENDENTE,2026-09-21,https://www.fronius.com/
+INV010,Fronius,Primo 6.0-1,On-grid,6000,9000,1000,80,800,18,2,False,,PENDENTE,2026-09-21,https://www.fronius.com/

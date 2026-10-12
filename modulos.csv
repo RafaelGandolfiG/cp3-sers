@@ -1,0 +1,11 @@
+id,fabricante,modelo,potencia_wp,voc_v,isc_a,vmp_v,imp_a,eficiencia_pct,preco_brl,fornecedor,data_coleta,url_fonte
+MOD001,Canadian Solar,CS6W-550MS,550,49.60,14.00,41.70,13.20,21.50,995.00,Stentor do Brasil,2026-09-21,https://loja.stentor.com.br/shop/produtodesk.php?cmpgn=ok&id=87002
+MOD002,Canadian Solar,CS3W-450MS,450,49.10,11.60,41.10,10.96,20.40,609.00,Minha Casa Solar,2026-09-21,https://www.minhacasasolar.com.br/painel-solar-450-w-canadian-solar-reembalado-cs3w-450ms-82129
+MOD003,Resun Solar,RS8I-550M,550,49.90,14.00,41.96,13.11,21.30,,PENDENTE,2026-09-21,SEM_FONTE_PRECO
+MOD004,OSDA,ODA550-36V-MHD,550,46.92,14.00,42.10,13.06,21.28,,PENDENTE,2026-09-21,SEM_FONTE_PRECO
+MOD005,Ronma,RM-610W-182R-132TB,610,49.00,15.89,40.80,14.96,22.60,890.00,Stentor do Brasil,2026-09-21,https://loja.stentor.com.br/shop/produtodesk.php?cmpgn=ok&id=93111
+MOD006,Ronma,RM-620W-132TB,620,49.60,15.91,41.40,14.99,23.00,999.00,Stentor do Brasil,2026-09-21,https://loja.stentor.com.br/shop/produtodesk.php?cmpgn=ok&id=93892
+MOD007,ODEX,ODE10092024,585,51.16,14.55,42.52,13.76,22.60,737.00,Stentor do Brasil,2026-09-21,https://loja.stentor.com.br/shop/produtodesk.php?cmpgn=ok&id=87610
+MOD008,Runergy,HY-DH144P8-550,550,49.90,14.00,41.96,13.11,21.30,709.36,Stentor do Brasil,2026-09-21,https://loja.stentor.com.br/shop/produtodesk.php?cmpgn=ok&id=87071
+MOD009,Jinko Solar,66HL4M-BDV Tiger Neo,610,48.68,15.96,40.64,15.08,22.58,649.90,Anhanguera Energia Solar,2026-09-21,https://www.anhangueraenergiasolar.com.br/painel-solar-jinko-610w-bifacial-tiger-neo-n-type-66hl4m-bdv-preto/prod-10767678/
+MOD010,Huasun,HS-210-B132DS700,700,50.13,17.43,42.10,16.63,22.50,1150.00,Stentor do Brasil,2026-09-21,https://www.loja.stentor.com.br/shop/produtodesk.php?cmpgn=ok&id=93813

@@ -1,0 +1,9 @@
+id,fabricante,modelo,tecnologia,tensao_nominal_v,capacidade_ah,capacidade_kwh,dod_pct,ciclos,preco_brl,fornecedor,data_coleta,url_fonte
+BAT001,GoodWe,LX U5.4-20,LiFePO4,51.2,105.47,5.4,90,4000,10545.00,Eletrotrafo,2026-10-11,https://www.eletrotrafo.com.br/bateria-solar-litio-goodwe-lynx-home-lxu5-4-20-51-2v-5-4kwh-50ah-306157-8-f-l--70030680/p
+BAT002,Pylontech,US5000,LiFePO4,48,100,4.8,95,6000,5999.00,Solar Shop,2026-10-11,https://solar-shops.com/produto/6a7a8e63960a61cd6272bfc1
+BAT003,BYD,Battery-Box Premium HVS 5.1,LiFePO4,204.8,25,5.12,100,6000,,PENDENTE,2026-09-21,https://www.bydbatterybox.com/
+BAT004,BYD,Battery-Box Premium HVS 7.7,LiFePO4,307.2,25,7.68,100,6000,,PENDENTE,2026-09-21,https://www.bydbatterybox.com/
+BAT005,BYD,Battery-Box Premium HVS 10.2,LiFePO4,409.6,25,10.24,100,6000,,PENDENTE,2026-09-21,https://www.bydbatterybox.com/
+BAT006,BYD,Battery-Box Premium HVS 12.8,LiFePO4,512,25,12.8,100,6000,,PENDENTE,2026-09-21,https://www.bydbatterybox.com/
+BAT007,BYD,Battery-Box Premium HVM 11.0,LiFePO4,204.8,53.91,11.04,100,6000,,PENDENTE,2026-09-21,https://www.bydbatterybox.com/
+BAT008,BYD,Battery-Box Premium HVM 16.6,LiFePO4,307.2,53.91,16.56,100,6000,,PENDENTE,2026-09-21,https://www.bydbatterybox.com/
